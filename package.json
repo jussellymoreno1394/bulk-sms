@@ -1,0 +1,17 @@
+{
+  "name": "Passthrough",
+  "version": "1.0.0",
+  "description": "Demo of Twilio Notify's Passthrough API",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodenv .",
+    "test": "nodenv -E test/.env test/test.js"
+  },
+  "author": "Jusselly Moreno",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "node-env-run": "^2.0.1",
+    "twilio": "^3.30.1"
+  }
+}
