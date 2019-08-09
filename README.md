@@ -14,13 +14,12 @@ An easy way to send bulk SMS with Twilio.
   
   - Add the respective SID for each of this variables.
   
-         ```
             1- TWILIO_ACCOUNT_SID
 
             2- TWILIO_AUTH_TOKE
 
             3- TWILIO_NOTIFY_SERVICE_SID
-          ```
+            
     1 and 2 are in the project dashboard :house:
   
 ## Quick Start
