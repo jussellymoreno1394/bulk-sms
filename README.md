@@ -21,6 +21,7 @@ An easy way to send bulk SMS with Twilio.
             3- TWILIO_NOTIFY_SERVICE_SID
             
     1 and 2 are in the project dashboard :house:
+    3 Is in Notify, inside the Services option.
   
 ## Quick Start
 
